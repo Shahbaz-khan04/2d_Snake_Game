@@ -6,5 +6,7 @@ Clone this repo and open via VS code.
 Download any c++ compiler from the internet.
 Open terminal of the folder that you have cloned this repo in.
 Run following command:
-  g++ first.cpp -o a && a
+```
+g++ first.cpp -o a && a
+```
 The game will be started...
